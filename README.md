@@ -10,3 +10,4 @@
 4. find_package - https://cmake.org/cmake/help/latest/command/find_package.html
 5. add_definitions - https://cmake.org/cmake/help/latest/command/add_definitions.html
 6. cmake commands - https://cmake.org/cmake/help/latest/manual/cmake-commands.7.html
+7. 
